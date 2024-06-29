@@ -32,9 +32,9 @@ Utilizei o "Libre Office para montar um esboço coma as criações do "Google AI
 Utilizei o "Gamma.app" para criar a partir do documento docx um catálogo em pdf.
 
 ## 🚀 Resultados
-O catálogo ficou com um visual chamativo, moderno e envolvente, demonstrando o poder das IAs atuais como auxiliares para criação.
-
+O catálogo ficou com um visual chamativo, moderno e envolvente.
 [Catálogo](https://github.com/Toledoreis/lab-natty-or-not/blob/main/Catalogo-de-Hoteis-Lunares.pdf)
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Este projeto demonstrou o poder das IAs atuais como auxiliares para criação e aumento de produtividade.
+
