@@ -26,10 +26,10 @@ Este catálogo é um convite para uma aventura interplanetária única. Prepare-
 - Ferramenta **[Libre Office](https://pt-br.libreoffice.org/)** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "Google AI Studio" para criar as descrições, preços de hospedagens, modelos de reservas, ...;
-Utilizei o "Microsoft Designer" para criar as imagens dos hotéis utilizando as decrições criadas no "Google AI Studio".
-Utilizei o "Libre Office para montar um esboço coma as criações do "Google AI Studio" + "Microsoft Designer" para gerar um documento no formato docx.
-Utilizei o "Gamma.app" para criar a partir do documento docx um catálogo em pdf.
+- Utilizei o "Google AI Studio" para criar as descrições, preços de hospedagens, modelos de reservas, ...;
+- Utilizei o "Microsoft Designer" para criar as imagens dos hotéis utilizando as decrições criadas no "Google AI Studio".
+- Utilizei o "Libre Office para montar um esboço coma as criações do "Google AI Studio" + "Microsoft Designer" para gerar um documento no formato docx.
+- Utilizei o "Gamma.app" para criar a partir do documento docx um catálogo em pdf.
 
 ## 🚀 Resultados
 O catálogo ficou com um visual chamativo, moderno e envolvente.
