@@ -23,7 +23,7 @@ Este catálogo é um convite para uma aventura interplanetária única. Prepare-
 - IA Generativa **[Google AI Studio](https://aistudio.google.com/)** para roteirização;
 - IA Generativa **[Microsoft Designer](https://designer.microsoft.com/)** para criar as imagnes dos Hotéis;
 - IA Generativa **[Gamma.app](https://gamma.app/)** para criar a apresentação do catálogo;
-- Ferramenta **Libre Office** para edição.
+- Ferramenta **[Libre Office](https://pt-br.libreoffice.org/)** para edição.
 
 ## 🧐 Processo de Criação
 Utilizei o "Google AI Studio" para criar as descrições, preços de hospedagens, modelos de reservas, ...;
@@ -34,7 +34,7 @@ Utilizei o "Gamma.app" para criar a partir do documento docx um catálogo em pdf
 ## 🚀 Resultados
 O catálogo ficou com um visual chamativo, moderno e envolvente, demonstrando o poder das IAs atuais como auxiliares para criação.
 
-[LINK PARA O E-BOOK AQUI]()
+[Catálogo]()
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
