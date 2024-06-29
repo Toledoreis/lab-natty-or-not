@@ -34,7 +34,7 @@ Utilizei o "Gamma.app" para criar a partir do documento docx um catálogo em pdf
 ## 🚀 Resultados
 O catálogo ficou com um visual chamativo, moderno e envolvente, demonstrando o poder das IAs atuais como auxiliares para criação.
 
-[Catálogo]()
+[Catálogo](https://github.com/Toledoreis/lab-natty-or-not/blob/main/Catalogo-de-Hoteis-Lunares.pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
