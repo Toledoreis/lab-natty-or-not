@@ -33,7 +33,7 @@ Este catálogo é um convite para uma aventura interplanetária única. Prepare-
 
 ## 🚀 Resultados
 O catálogo ficou com um visual chamativo, moderno e envolvente.
-[Catálogo](https://github.com/Toledoreis/lab-natty-or-not/blob/main/Catalogo-de-Hoteis-Lunares.pdf)
+- [Catálogo](https://github.com/Toledoreis/lab-natty-or-not/blob/main/Catalogo-de-Hoteis-Lunares.pdf)
 
 ## 💭 Reflexão
 Este projeto demonstrou o poder das IAs atuais como auxiliares para criação e aumento de produtividade.
